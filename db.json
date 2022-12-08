@@ -1,11 +1,255 @@
-{"users": [
-    
+{
+  "users": [
+    {
+      "email": "qq@qq.qq",
+      "password": "$2a$10$n0cqYJnQA00oxNDHIKPgjenG9IkM2A71rOHgcYYDrkQywmgVsdkja",
+      "nickname": "林XX",
+      "photo": "",
+      "id": 1
+    },
+    {
+      "email": "aa@aa.aa",
+      "password": "$2a$10$8tgNFrAFf62pn0ZdqDqEWeTzTE.6QdCQLiwWZuADmlYG9sVln7VVi",
+      "nickname": "無名",
+      "photo": "",
+      "id": 2
+    },
+    {
+      "email": "zz@zz.zz",
+      "password": "$2a$10$mdcb45cdWhDboA1PTFF/IuF7Tf0Zbecf9pB3gHQdRRNg21FSiX/X6",
+      "nickname": "沒有錢",
+      "photo": "",
+      "id": 3
+    }
   ],
-  "posts": [
-    { "id": 1, "title": "json-server22", "author": "typicode" }
+  "favorites": [
+    {
+      "userId": "1",
+      "positionId": "C2_315080000H_080681",
+      "name": "2022桃園國際風箏節",
+      "city": "桃園市",
+      "picture": "https://www.taiwan.net.tw/att/event/44296f8e-98e4-4c06-80e2-355ab999fcc2.jpg",
+      "address": "桃園市大溪區中庄調整池景觀土丘",
+      "px": 24.92574691772461,
+      "py": 121.31816864013672,
+      "id": 20
+    },
+    {
+      "userId": "1",
+      "positionId": "C2_315081200H_007203",
+      "name": "穗穗平安-獅頭山原住民族及在地手工藝品體驗DIY活動",
+      "city": "新竹縣",
+      "picture": "https://www.trimt-nsa.gov.tw/Content/Uploads/ActivityExpress/7724f593-3350-4c22-b107-0fd7c29ab50c.jpg",
+      "address": "新竹縣峨眉鄉七星村六寮60-8號",
+      "px": 24.65591049194336,
+      "py": 121.0243911743164,
+      "id": 25
+    },
+    {
+      "userId": "2",
+      "positionId": "C4_315080000H_008492",
+      "name": "昇財麗禧酒店",
+      "city": "彰化縣",
+      "picture": "https://taiwan.taiwanstay.net.tw/twpic/86670.jpg",
+      "address": "彰化縣員林市中山路二段395號1-9樓",
+      "px": 23.969146728515625,
+      "py": 120.57119750976562,
+      "id": 26
+    },
+    {
+      "userId": "1",
+      "positionId": "C4_315080000H_000379",
+      "name": "橋王花園酒店",
+      "city": "臺中市",
+      "picture": "https://taiwan.taiwanstay.net.tw/twpic/25959.jpg",
+      "address": "臺中市北屯區東山路2段77-11號",
+      "px": 24.193313598632812,
+      "py": 120.7470703125,
+      "id": 31
+    },
+    {
+      "userId": "2",
+      "positionId": "C1_315081200H_000505",
+      "name": "谷關遊客中心暨入關博物館",
+      "city": "臺中市",
+      "picture": "https://www.trimt-nsa.gov.tw/Content/Uploads/StrollArea/Detail/5cd58185-81f5-4667-a2a8-e1ae0dab50e8.JPG",
+      "address": "424臺中市和平區東關路一段102號",
+      "px": 24.203332901000977,
+      "py": 121.00677490234375,
+      "id": 34
+    },
+    {
+      "userId": "2",
+      "positionId": "C3_315081100H_000013",
+      "name": "樂涼軒",
+      "city": "南投縣",
+      "picture": "https://www.sunmoonlake.gov.tw/image/419/640x480",
+      "address": "南投縣545埔里鎮中山路二段348號",
+      "px": 23.96463966369629,
+      "py": 120.966552734375,
+      "id": 35
+    },
+    {
+      "userId": "1",
+      "positionId": "C2_315080000H_080698",
+      "name": "2022阿里山日出印象音樂會",
+      "city": "南投縣",
+      "picture": "https://www.taiwan.net.tw/att/event/ef1bff5c-a2cd-468b-a96e-c1032ed89e87.jpg",
+      "address": "嘉義縣阿里山鄉阿里山國家森林遊樂區 祝山觀日平臺（停機坪）",
+      "px": 23.510173797607422,
+      "py": 120.82379913330078,
+      "id": 36
+    },
+    {
+      "userId": "1",
+      "positionId": "C3_315081100H_000009",
+      "name": "戲綠川民宿/甫田6號部落美食餐廳",
+      "city": "南投縣",
+      "picture": "https://www.sunmoonlake.gov.tw/image/444/640x480",
+      "address": "南投縣545埔里鎮南環路389號",
+      "px": 23.950910568237305,
+      "py": 120.96179962158203,
+      "id": 37
+    },
+    {
+      "userId": "1",
+      "positionId": "C1_315081100H_000006",
+      "name": "雙龍瀑布七彩吊橋",
+      "city": "南投縣",
+      "picture": "https://www.sunmoonlake.gov.tw/image/5798/640x480",
+      "address": "南投縣556信義鄉光復巷",
+      "px": 23.776670455932617,
+      "py": 120.95088958740234,
+      "id": 38
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
+  "itineraries": [
+    {
+      "userId": 1,
+      "name": "我的行程1",
+      "startDate": "2022/12/18",
+      "id": 1
+    },
+    {
+      "userId": 2,
+      "name": "台灣到處吃",
+      "startDate": "2022/12/19",
+      "id": 2
+    },
+    {
+      "userId": 2,
+      "name": "還在想行程",
+      "startDate": "2022/12/30",
+      "id": 3
+    }
   ],
-  "profile": { "name": "typicode" }
+  "days": [
+    {
+      "userId": 1,
+      "day": 1,
+      "startTime": "08:00",
+      "position": [
+        {
+          "id": 1,
+          "order": 1,
+          "name": "大稻埕碼頭_大稻埕碼頭貨櫃市集",
+          "picture": "https://www.travel.taipei/image/182690",
+          "stayTime": "10:30",
+          "address": "103臺北市大同區",
+          "px": 25.056400299072266,
+          "py": 121.50760650634766,
+          "vehicle": "car",
+          "avoidHighway": "false"
+        },
+        {
+          "id": 2,
+          "order": 2,
+          "name": "長角96",
+          "picture": "",
+          "stayTime": "00:45",
+          "address": "新北市三芝區新庄子96號",
+          "px": 25.278610229492188,
+          "py": 121.50711822509766,
+          "vehicle": "car",
+          "avoidHighway": "true"
+        }
+      ],
+      "itineraryId": "1",
+      "id": 1
+    },
+    {
+      "userId": 1,
+      "day": 2,
+      "startTime": "08:00",
+      "position": [
+        {
+          "id": 1,
+          "order": 1,
+          "name": "攬勝樓",
+          "picture": "https://www.trimt-nsa.gov.tw/Content/Uploads/StrollArea/Detail/ff841a06-7b0a-48ee-86ea-7ea5c327154a_thumb.JPG",
+          "stayTime": "01:20",
+          "address": "臺中市和平區",
+          "px": 24.256946563720703,
+          "py": 121.24554443359375,
+          "vehicle": "car",
+          "avoidHighway": "false"
+        }
+      ],
+      "itineraryId": "1",
+      "id": 2
+    },
+    {
+      "userId": 2,
+      "day": 1,
+      "startTime": "08:30",
+      "position": [
+        {
+          "id": 1,
+          "order": 3,
+          "name": "山江餐飲店",
+          "picture": "https://www.trimt-nsa.gov.tw/Content/Uploads/StrollArea/Detail/812a5ffc-3d7b-4406-b211-8e8dcccb38ae_thumb.jpg",
+          "stayTime": "01:00",
+          "address": "424台灣台中市和平區東關路一段137號",
+          "px": 24.202945709228516,
+          "py": 121.00505828857422,
+          "vehicle": "motor",
+          "avoidHighway": "false"
+        },
+        {
+          "id": 2,
+          "order": 1,
+          "name": "馬沙溝吳家蚵嗲",
+          "picture": "https://swcoast-nsa.travel/image/1493/640x480",
+          "stayTime": "00:40",
+          "address": "臺南市725將軍區91之1號",
+          "px": 23.216480255126953,
+          "py": 120.09425354003906,
+          "vehicle": "walk",
+          "avoidHighway": "false"
+        },
+        {
+          "id": 3,
+          "order": 2,
+          "name": "禪園人文花園餐廳",
+          "picture": "",
+          "stayTime": "01:15",
+          "address": "桃園市320中壢區廣安街32號",
+          "px": 24.958459854125977,
+          "py": 121.2229995727539,
+          "vehicle": "car",
+          "avoidHighway": "false"
+        }
+      ],
+      "itineraryId": "2",
+      "id": 3
+    },
+    {
+      "userId": 2,
+      "day": 1,
+      "startTime": "08:00",
+      "position": [],
+      "itineraryId": "3",
+      "id": 4
+    }
+  ]
 }

@@ -17,7 +17,7 @@
     {
       "email": "zz@zz.zz",
       "password": "$2a$10$mdcb45cdWhDboA1PTFF/IuF7Tf0Zbecf9pB3gHQdRRNg21FSiX/X6",
-      "nickname": "沒有錢",
+      "nickname": "問號",
       "photo": "",
       "id": 3
     }
@@ -88,39 +88,6 @@
       "px": 23.96463966369629,
       "py": 120.966552734375,
       "id": 35
-    },
-    {
-      "userId": "1",
-      "positionId": "C2_315080000H_080698",
-      "name": "2022阿里山日出印象音樂會",
-      "city": "南投縣",
-      "picture": "https://www.taiwan.net.tw/att/event/ef1bff5c-a2cd-468b-a96e-c1032ed89e87.jpg",
-      "address": "嘉義縣阿里山鄉阿里山國家森林遊樂區 祝山觀日平臺（停機坪）",
-      "px": 23.510173797607422,
-      "py": 120.82379913330078,
-      "id": 36
-    },
-    {
-      "userId": "1",
-      "positionId": "C3_315081100H_000009",
-      "name": "戲綠川民宿/甫田6號部落美食餐廳",
-      "city": "南投縣",
-      "picture": "https://www.sunmoonlake.gov.tw/image/444/640x480",
-      "address": "南投縣545埔里鎮南環路389號",
-      "px": 23.950910568237305,
-      "py": 120.96179962158203,
-      "id": 37
-    },
-    {
-      "userId": "1",
-      "positionId": "C1_315081100H_000006",
-      "name": "雙龍瀑布七彩吊橋",
-      "city": "南投縣",
-      "picture": "https://www.sunmoonlake.gov.tw/image/5798/640x480",
-      "address": "南投縣556信義鄉光復巷",
-      "px": 23.776670455932617,
-      "py": 120.95088958740234,
-      "id": 38
     }
   ],
   "itineraries": [
@@ -146,12 +113,12 @@
   "days": [
     {
       "userId": 1,
-      "day": 1,
+      "sort": 1,
       "startTime": "08:00",
       "position": [
         {
           "id": 1,
-          "order": 1,
+          "sort": 1,
           "name": "大稻埕碼頭_大稻埕碼頭貨櫃市集",
           "picture": "https://www.travel.taipei/image/182690",
           "stayTime": "10:30",
@@ -163,7 +130,7 @@
         },
         {
           "id": 2,
-          "order": 2,
+          "sort": 2,
           "name": "長角96",
           "picture": "",
           "stayTime": "00:45",
@@ -179,12 +146,13 @@
     },
     {
       "userId": 1,
-      "day": 2,
+      "dayId": 2,
+      "sort": 2,
       "startTime": "08:00",
       "position": [
         {
           "id": 1,
-          "order": 1,
+          "sort": 1,
           "name": "攬勝樓",
           "picture": "https://www.trimt-nsa.gov.tw/Content/Uploads/StrollArea/Detail/ff841a06-7b0a-48ee-86ea-7ea5c327154a_thumb.JPG",
           "stayTime": "01:20",
@@ -200,12 +168,12 @@
     },
     {
       "userId": 2,
-      "day": 1,
+      "sort": 1,
       "startTime": "08:30",
       "position": [
         {
           "id": 1,
-          "order": 3,
+          "sort": 3,
           "name": "山江餐飲店",
           "picture": "https://www.trimt-nsa.gov.tw/Content/Uploads/StrollArea/Detail/812a5ffc-3d7b-4406-b211-8e8dcccb38ae_thumb.jpg",
           "stayTime": "01:00",
@@ -217,7 +185,7 @@
         },
         {
           "id": 2,
-          "order": 1,
+          "sort": 1,
           "name": "馬沙溝吳家蚵嗲",
           "picture": "https://swcoast-nsa.travel/image/1493/640x480",
           "stayTime": "00:40",
@@ -229,7 +197,7 @@
         },
         {
           "id": 3,
-          "order": 2,
+          "sort": 2,
           "name": "禪園人文花園餐廳",
           "picture": "",
           "stayTime": "01:15",
@@ -245,7 +213,7 @@
     },
     {
       "userId": 2,
-      "day": 1,
+      "sort": 1,
       "startTime": "08:00",
       "position": [],
       "itineraryId": "3",

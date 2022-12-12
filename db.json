@@ -191,7 +191,7 @@
           "address": "臺南市725將軍區91之1號",
           "px": 23.216480255126953,
           "py": 120.09425354003906,
-          "vehicle": "pedestrian",
+          "vehicle": "cycling",
           "avoidHighway": "false"
         },
         {

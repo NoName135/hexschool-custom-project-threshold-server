@@ -126,7 +126,7 @@
           "px": 25.056400299072266,
           "py": 121.50760650634766,
           "vehicle": "car",
-          "avoidHighway": "false"
+          "avoidHighway": false
         },
         {
           "id": 2,
@@ -138,7 +138,7 @@
           "px": 25.278610229492188,
           "py": 121.50711822509766,
           "vehicle": "car",
-          "avoidHighway": "true"
+          "avoidHighway": true
         }
       ],
       "itineraryId": "1",
@@ -159,7 +159,7 @@
           "px": 24.256946563720703,
           "py": 121.24554443359375,
           "vehicle": "car",
-          "avoidHighway": "false"
+          "avoidHighway": false
         }
       ],
       "itineraryId": "1",
@@ -180,7 +180,7 @@
           "px": 24.202945709228516,
           "py": 121.00505828857422,
           "vehicle": "cycling",
-          "avoidHighway": "false"
+          "avoidHighway": false
         },
         {
           "id": 2,
@@ -192,7 +192,7 @@
           "px": 23.216480255126953,
           "py": 120.09425354003906,
           "vehicle": "scooter",
-          "avoidHighway": "false"
+          "avoidHighway": false
         },
         {
           "id": 3,
@@ -204,7 +204,7 @@
           "px": 24.958459854125977,
           "py": 121.2229995727539,
           "vehicle": "car",
-          "avoidHighway": "true"
+          "avoidHighway": true
         }
       ],
       "itineraryId": "2",

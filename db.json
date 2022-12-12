@@ -204,7 +204,7 @@
           "px": 24.958459854125977,
           "py": 121.2229995727539,
           "vehicle": "car",
-          "avoidHighway": "false"
+          "avoidHighway": "true"
         }
       ],
       "itineraryId": "2",

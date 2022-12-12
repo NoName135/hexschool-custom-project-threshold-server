@@ -179,7 +179,7 @@
           "address": "424台灣台中市和平區東關路一段137號",
           "px": 24.202945709228516,
           "py": 121.00505828857422,
-          "vehicle": "scooter",
+          "vehicle": "cycling",
           "avoidHighway": "false"
         },
         {
@@ -191,7 +191,7 @@
           "address": "臺南市725將軍區91之1號",
           "px": 23.216480255126953,
           "py": 120.09425354003906,
-          "vehicle": "cycling",
+          "vehicle": "scooter",
           "avoidHighway": "false"
         },
         {

@@ -94,19 +94,19 @@
     {
       "userId": 1,
       "name": "我的行程1",
-      "startDate": "2022/12/18",
+      "startDate": "2022-12-18",
       "id": 1
     },
     {
       "userId": 2,
       "name": "台灣到處吃",
-      "startDate": "2022/12/19",
+      "startDate": "2022-12-19",
       "id": 2
     },
     {
       "userId": 2,
       "name": "還在想行程",
-      "startDate": "2022/12/30",
+      "startDate": "2022-12-30",
       "id": 3
     }
   ],

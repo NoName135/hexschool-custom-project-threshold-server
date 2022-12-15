@@ -113,12 +113,12 @@
   "days": [
     {
       "userId": 1,
-      "sort": 1,
+      "sort": 2,
       "startTime": "08:00",
       "position": [
         {
           "id": 1,
-          "sort": 2,
+          "sort": 1,
           "name": "攬勝樓",
           "picture": "https://www.trimt-nsa.gov.tw/Content/Uploads/StrollArea/Detail/ff841a06-7b0a-48ee-86ea-7ea5c327154a_thumb.JPG",
           "stayTime": 80,

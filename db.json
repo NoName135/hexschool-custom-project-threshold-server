@@ -113,7 +113,28 @@
   "days": [
     {
       "userId": 1,
-      "sort": 2,
+      "sort": 1,
+      "startTime": "08:00",
+      "position": [
+        {
+          "id": 1,
+          "sort": 2,
+          "name": "攬勝樓",
+          "picture": "https://www.trimt-nsa.gov.tw/Content/Uploads/StrollArea/Detail/ff841a06-7b0a-48ee-86ea-7ea5c327154a_thumb.JPG",
+          "stayTime": 80,
+          "address": "臺中市和平區",
+          "px": 24.256946563720703,
+          "py": 121.24554443359375,
+          "vehicle": "car",
+          "avoidHighway": false
+        }
+      ],
+      "itineraryId": "1",
+      "id": 1
+    },
+    {
+      "userId": 1,
+      "sort": 1,
       "startTime": "08:00",
       "position": [
         {
@@ -139,27 +160,6 @@
           "py": 121.50711822509766,
           "vehicle": "car",
           "avoidHighway": true
-        }
-      ],
-      "itineraryId": "1",
-      "id": 1
-    },
-    {
-      "userId": 1,
-      "sort": 1,
-      "startTime": "08:00",
-      "position": [
-        {
-          "id": 1,
-          "sort": 1,
-          "name": "攬勝樓",
-          "picture": "https://www.trimt-nsa.gov.tw/Content/Uploads/StrollArea/Detail/ff841a06-7b0a-48ee-86ea-7ea5c327154a_thumb.JPG",
-          "stayTime": 80,
-          "address": "臺中市和平區",
-          "px": 24.256946563720703,
-          "py": 121.24554443359375,
-          "vehicle": "car",
-          "avoidHighway": false
         }
       ],
       "itineraryId": "1",

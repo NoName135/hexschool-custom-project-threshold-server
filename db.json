@@ -125,6 +125,18 @@
           "address": "臺中市和平區",
           "px": 24.256946563720703,
           "py": 121.24554443359375,
+          "vehicle": "scooter",
+          "avoidHighway": false
+        }
+        {
+          "id": 2,
+          "sort": 2,
+          "name": "六星旅館",
+          "picture": "https://taiwan.taiwanstay.net.tw/twpic/53423.JPG",
+          "stayTime": 300,
+          "address": "桃園市桃園區經國路721號",
+          "px": 25.024742126464844,
+          "py": 121.30164337158203,
           "vehicle": "car",
           "avoidHighway": false
         }

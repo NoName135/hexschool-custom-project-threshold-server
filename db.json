@@ -113,7 +113,7 @@
   "days": [
     {
       "userId": 1,
-      "sort": 2,
+      "sort": 1,
       "startTime": "08:00",
       "position": [
         {
@@ -134,7 +134,7 @@
     },
     {
       "userId": 1,
-      "sort": 1,
+      "sort": 2,
       "startTime": "08:00",
       "position": [
         {

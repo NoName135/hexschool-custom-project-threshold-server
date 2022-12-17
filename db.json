@@ -93,8 +93,8 @@
   "itineraries": [
     {
       "userId": 1,
-      "name": "我的行程1",
-      "startDate": "2022-12-18",
+      "name": "測試用行程",
+      "startDate": "2022-01-05",
       "id": 1
     },
     {

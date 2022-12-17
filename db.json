@@ -118,6 +118,18 @@
       "position": [
         {
           "id": 1,
+          "sort": 3,
+          "name": "六星旅館",
+          "picture": "https://taiwan.taiwanstay.net.tw/twpic/53423.JPG",
+          "stayTime": 300,
+          "address": "桃園市桃園區經國路721號",
+          "px": 25.024742126464844,
+          "py": 121.30164337158203,
+          "vehicle": "car",
+          "avoidHighway": false
+        },
+        {
+          "id": 2,
           "sort": 1,
           "name": "攬勝樓",
           "picture": "https://www.trimt-nsa.gov.tw/Content/Uploads/StrollArea/Detail/ff841a06-7b0a-48ee-86ea-7ea5c327154a_thumb.JPG",
@@ -129,16 +141,16 @@
           "avoidHighway": false
         },
         {
-          "id": 2,
+          "id": 3,
           "sort": 2,
-          "name": "六星旅館",
-          "picture": "https://taiwan.taiwanstay.net.tw/twpic/53423.JPG",
-          "stayTime": 300,
-          "address": "桃園市桃園區經國路721號",
-          "px": 25.024742126464844,
-          "py": 121.30164337158203,
+          "name": "2022屏東落山風藝術季",
+          "picture": "https://www.taiwan.net.tw/att/event/d15d8b4a-5f67-4c53-8b83-691a3803ec8b.jpg",
+          "stayTime": 165,
+          "address": "屏東縣車城鄉海口港看海美術館",
+          "px":  22.08995246887207,
+          "py": 120.71528625488281,
           "vehicle": "car",
-          "avoidHighway": false
+          "avoidHighway": true
         }
       ],
       "itineraryId": "1",
